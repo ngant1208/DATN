@@ -1,0 +1,2 @@
+file chạy chính của app qltt: app_main.py
+
